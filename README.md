@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-ALX programming proper
+This contains scripts that eploit all shell permissions
