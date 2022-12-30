@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($(echo $DECIMAL).toString(16)))"
+echo "$(($(echo $(DECIMAL)).toString(16)))"
